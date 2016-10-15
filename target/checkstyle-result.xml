@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/home/gaoziqiang/git/cloneGit/memdbst/src/main/java/cn/edu/sdut/softlab/memdbst/Client.java">
+<error line="5" severity="warning" message="Javadoc comment at column 33 has parse error. Details: no viable alternative at input &apos;&lt;subaochen@&apos; while parsing HTML_ELEMENT" source="com.puppycrawl.tools.checkstyle.checks.javadoc.NonEmptyAtclauseDescriptionCheck"/>
+</file>
+</checkstyle>
